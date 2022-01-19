@@ -48,7 +48,7 @@
 	<section class="fh5co-top-banner">
 		<div class="top-banner__inner site-container">
 			<div class="top-banner__image">
-				<img src="./images/Uji.jpg" height="550" width = "550" >
+				<img src="./images/uji.jpg" height="550" width = "550" alt="author image">
 			</div>
 			<div class="top-banner__text">
 				<div class="top-banner__text-up">
@@ -139,7 +139,7 @@
 				</div>
 				<div class="single-book">
 					<a href="#" class="single-book__img">
-						<img src="./images/Hope.png" height="350" width = "350" >
+						<img src="./images/hope.png" height="350" width = "350" alt="single book and cd">
 						<div class="single-book_download">
 							<img src="./images/download.svg" alt="book image">
 						</div>
